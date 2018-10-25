@@ -379,6 +379,10 @@ p {
 }
 
 .card:nth-child(9) {
+	background: url(../img/shanzhanyun.png)no-repeat left;
+	background-size: 100% 100%;
+}
+.card:nth-child(10) {
 	background: rgba(0, 0, 0, 0.20);
 }
 
